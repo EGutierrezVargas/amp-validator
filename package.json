@@ -1,0 +1,33 @@
+{
+  "name": "amp-validator",
+  "version": "1.0.0",
+  "description": "AMP VALIDATOR WEBSITE",
+  "main": "index.js",
+  "bin": {
+    "amphtml-validator": "amp.js"
+  },
+  "scripts":{
+    "ampfile" : "node amp-file.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EGutierrezVargas/amp-validator.git"
+  },
+  "keywords": [
+    "AMP",
+    "VALIDATOR",
+    "AMP"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EGutierrezVargas/amp-validator/issues"
+  },
+  "homepage": "https://github.com/EGutierrezVargas/amp-validator#readme",
+  "dependencies": {
+    "amphtml-validator": "^1.0.29",
+    "colors": "1.2.5",
+    "commander": "2.15.1",
+    "promise": "8.0.1"
+  }
+}
