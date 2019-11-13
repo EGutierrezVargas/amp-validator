@@ -9,6 +9,8 @@ npm i
 ### Commands
 ```sh
 amphtml-validator https://larepublica.pe/politica/2019/11/13/tc-decide-el-martes-si-incluye-acta-de-yoshiyama-sobre-keiko-lava-jato-fiscalia/?outputType=amp
+```
+```sh
 npm run ampfile
 ```
 ### Documentation
